@@ -1,0 +1,10 @@
+@keyframes load{
+    0% {
+        transform: translateY(180px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
